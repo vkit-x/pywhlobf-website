@@ -1,0 +1,8 @@
+{
+  "label": "Quick View",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "quick-tour"
+  }
+}

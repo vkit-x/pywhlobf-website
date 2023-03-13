@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="65.7572476%" y1="113.96416%" x2="21.1090595%" y2="11.0487229%" id="linearGradient-1">
+            <stop stop-color="#486FF2" offset="0%"></stop>
+            <stop stop-color="#4BEAC5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="25.4225976%" y1="13.812297%" x2="50%" y2="119.709458%" id="linearGradient-2">
+            <stop stop-color="#0AAD88" offset="0%"></stop>
+            <stop stop-color="#3E5CBD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4">
+            <g id="编组" transform="translate(77.697842, 75.779376)">
+                <polygon id="路径-2" fill="url(#linearGradient-1)" points="0 30.6853993 122.781775 93.7138501 122.781775 249.40048"></polygon>
+                <polygon id="路径-2" fill="url(#linearGradient-2)" transform="translate(184.172662, 139.390059) scale(-1, 1) translate(-184.172662, -139.390059) " points="122.781775 30.0325185 245.563549 93.0609693 245.563549 248.747599"></polygon>
+                <polygon id="路径" fill="#A4FFEA" points="0 30.821738 122.205998 94.0148405 245.563549 30.821738 186.51838 0 122.781775 30.821738 61.2817599 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
