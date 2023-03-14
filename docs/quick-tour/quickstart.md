@@ -26,7 +26,7 @@ We've built and published a series of docker images to the follwoing registries:
 Our docker image tag adheres to the following pattern: `{pywhlobf version}(-cython3)?-{platform tag}`:
 
 - `{pywhlobf version}`: The `pywhlobf` package version. We are following the [Calendar Versioning](https://calver.org/) convention.
-- `(-cython3)?`: When the `-cython3` tag is included, the docker image is built using Cython 3.0. Otherwise, it uses Cython 0.29. Despite being in the pre-release phase, Cython 3.x offers a wider range of features. It is recommanded to use Cython 0.29-based image first, that is, docker image tag without `-cython3`. If you encounter compilation errors, then you may switch to the Cython 3.0-based image.
+- `(-cython3)?`: When the `-cython3` tag is included, the docker image is built using Cython 3.0. Otherwise, it uses Cython 0.29. Despite being in the pre-release phase, Cython 3.x offers a wider range of features. It is recommanded to use Cython 0.29-based image first, that is, docker image tag without `-cython3`. If you encounter compilation errors, then you may try to switch to the Cython 3.0-based image.
 - `{platform tag}`: [Platform tag](https://packaging.python.org/en/latest/specifications/platform-compatibility-tags/#platform-tag) specifies the platform requirements, such as the operating system and the glibc version.
   - For Linux, the following platform tags are supported (For more information, please visit [pypa/manylinux](https://github.com/pypa/manylinux)):
     - `manylinux2014_x86_64`
