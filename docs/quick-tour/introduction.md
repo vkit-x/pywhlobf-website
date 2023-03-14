@@ -13,7 +13,7 @@ sidebar_position: 1
 
 ## What is this project?
 
-`pywhlobf` specializes in safeguarding your valuable source code and helping you secure your intellectual property. It does so by converting your `.py` Python source code into a compiled shared library, which is a `.so` file on Linux/macOS or a `.pyd` file on Windows. By doing so, you can distribute your compiled code to others while keeping your source implementation confidential.
+`pywhlobf` specializes in safeguarding your valuable source code and helping you secure your intellectual property. It does so by converting your `.py` Python source code into a compiled shared library, which is a `.so` file in Linux/macOS or a `.pyd` file in Windows. By doing so, you can distribute your compiled code to others while keeping your source implementation confidential.
 
 ## How do I get started?
 
